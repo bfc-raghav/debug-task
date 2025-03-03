@@ -1,0 +1,14 @@
+C:\Users\User\Documents\debugging_project\debugging_project\bin\Debug\net9.0\debugging_project.exe
+C:\Users\User\Documents\debugging_project\debugging_project\bin\Debug\net9.0\debugging_project.deps.json
+C:\Users\User\Documents\debugging_project\debugging_project\bin\Debug\net9.0\debugging_project.runtimeconfig.json
+C:\Users\User\Documents\debugging_project\debugging_project\bin\Debug\net9.0\debugging_project.dll
+C:\Users\User\Documents\debugging_project\debugging_project\bin\Debug\net9.0\debugging_project.pdb
+C:\Users\User\Documents\debugging_project\debugging_project\obj\Debug\net9.0\debugging_project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\debugging_project\debugging_project\obj\Debug\net9.0\debugging_project.AssemblyInfoInputs.cache
+C:\Users\User\Documents\debugging_project\debugging_project\obj\Debug\net9.0\debugging_project.AssemblyInfo.cs
+C:\Users\User\Documents\debugging_project\debugging_project\obj\Debug\net9.0\debugging_project.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\debugging_project\debugging_project\obj\Debug\net9.0\debugging_project.dll
+C:\Users\User\Documents\debugging_project\debugging_project\obj\Debug\net9.0\refint\debugging_project.dll
+C:\Users\User\Documents\debugging_project\debugging_project\obj\Debug\net9.0\debugging_project.pdb
+C:\Users\User\Documents\debugging_project\debugging_project\obj\Debug\net9.0\debugging_project.genruntimeconfig.cache
+C:\Users\User\Documents\debugging_project\debugging_project\obj\Debug\net9.0\ref\debugging_project.dll
